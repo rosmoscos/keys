@@ -5,15 +5,13 @@
   ],
   "inputUrl": "http://103.191.50.59:31337/jdom/get.php",
   "threads": 400,
-  "timeout": 3,
+  "timeout": 8,
   "paths": [
-    "/.aws/credentials",
-    "/sendgrid.env",
+    "/Telerik.Web.UI.WebResource.axd?type=rau",
     "/.vscode/sftp.json"
   ],
   "contents": [
-    "aws_access_key_id",
-    "SENDGRID_API_KEY",
+    "RadAsyncUpload",
     "\"remotePath\":"
   ],
   "regex": [],
