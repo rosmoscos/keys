@@ -7,7 +7,7 @@
   "threads": 400,
   "timeout": 8,
   "paths": [
-    "/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/Telerik.Web.UI.WebResource.axd?type=rau"
   ],
   "contents": [
     "RadAsyncUpload",
