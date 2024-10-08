@@ -7,7 +7,7 @@
   "threads": 40,
   "timeout": 8,
   "paths": [
-    "/.aws/credentials"
+    "/credentials"
   ],
   "contents": [
     "RadAsyncUpload",
