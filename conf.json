@@ -4,14 +4,15 @@
     200
   ],
   "inputUrl": "http://103.191.50.59:31337/op/get.php",
-  "threads": 40,
+  "threads": 400,
   "timeout": 8,
   "paths": [
-    "/credentials"
+    "/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/.vscode/sftp.json"
   ],
   "contents": [
     "RadAsyncUpload",
-    "aws_access_key_id"
+    "\"remotePath\":"
   ],
   "regex": [],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
