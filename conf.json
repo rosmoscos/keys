@@ -4,10 +4,9 @@
     200
   ],
   "inputUrl": "http://103.191.50.59:31337/op/get.php",
-  "threads": 400,
+  "threads": 40,
   "timeout": 8,
   "paths": [
-    "/Telerik.Web.UI.WebResource.axd?type=rau",
     "/.aws/credentials"
   ],
   "contents": [
