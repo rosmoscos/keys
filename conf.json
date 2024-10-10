@@ -9,6 +9,14 @@
   "paths": [
     "/Telerik.Web.UI.WebResource.axd?type=rau",
     "/.env",
+    "phpinfo.php",
+    "info.php",
+    "test.php",
+    "1.php",
+    "infos.php",
+    "a.php",
+    "z.php",
+    "phpinfo.php",
     "/.env.bak",
     "/admin/.env",
     "/api/.env",
@@ -53,6 +61,7 @@
     "\"remotePath\":",
     "APP_KEY=base64",
     "DB_HOST=",
+    "Configuration File (php.ini) Path",
     "\"remotePath\":"
   ],
   "regex": [],
