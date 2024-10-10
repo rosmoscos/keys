@@ -54,13 +54,14 @@
     "/vendor/.env",
     "/wp-admin/.env",
     "/wp-content/.env",
-    "/www/.env"
+    "/"
   ],
   "contents": [
     "RadAsyncUpload",
     "\"remotePath\":",
     "APP_KEY=base64",
     "DB_HOST=",
+    "<title>Expedition Project</title>",
     "Configuration File (php.ini) Path",
     "\"remotePath\":"
   ],
