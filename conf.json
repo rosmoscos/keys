@@ -10,9 +10,10 @@
     "/.docker/.env",
     "/.docker/laravel/app/.env",
     "/.env",
-    "/.env-example",
-    "/.env-sample",
+    "/.vscode/sftp.json",
+    "/Telerik.Web.UI.WebResource.axd?type=rau",
     "/.env.backup",
+    "/.ftpconfig",
     "/.env.bak",
     "/.env.config",
     "/.env.dev",
@@ -277,6 +278,9 @@
   ],
   "contents": [
     "APP_KEY=base64",
+    "\"remotePath\":",
+    "\"protocol\":",
+    "RadAsyncUpload",
     "DB_HOST="
   ],
   "regex": [],
