@@ -7,14 +7,26 @@
   "threads": 400,
   "timeout": 8,
   "paths": [
-    "/.vscode/sftp.json",
-    "/Telerik.Web.UI.WebResource.axd?type=rau",
-    "/dup-installer/main.installer.php"
+    "/.well-known/security.txt",
+    "/responsible-disclosure",
+    "/security/report/",
+    "/security",
+    "/vulnerability-disclosure",
+    "/legal/submit-vulnerability-report",
+    "/legal-submit-vulnerability-report",
+    "/vulnerability-disclosure-policy",
+    "/legal/responsible-disclosure",
+    "/www/.env"
   ],
   "contents": [
-    "\"remotePath\":",
-    "Duplicator",
-    "RadAsyncUpload"
+    "reward",
+    "In Scope",
+    "Out of scope",
+    "Report a Vulnerability",
+    "powered by BugCrowd",
+    "If you believe you've found a security vulnerability",
+    "Submit Vulnerability Report",
+    "<title>Responsible Disclosure"
   ],
   "regex": [],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
