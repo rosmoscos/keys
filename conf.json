@@ -15,8 +15,7 @@
     "/legal/submit-vulnerability-report",
     "/legal-submit-vulnerability-report",
     "/vulnerability-disclosure-policy",
-    "/legal/responsible-disclosure",
-    "/www/.env"
+    "/legal/responsible-disclosure"
   ],
   "contents": [
     "reward",
