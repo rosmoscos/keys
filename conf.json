@@ -16,7 +16,6 @@
   ],
   "contents": [
     "RadAsyncUpload",
-    "\"remotePath\":",
     "\"protocol\":",
     "Deploy to production prod",
     "git-ftp.password",
