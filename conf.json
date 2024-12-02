@@ -3,7 +3,7 @@
   "statuscode": [
     200
   ],
-  "inputUrl": "http://103.191.50.59:31337/jdom/get.php",
+  "inputUrl": "http://103.191.50.59:31337/jdom/tele/get.php",
   "threads": 200,
   "timeout": 8,
   "paths": [
