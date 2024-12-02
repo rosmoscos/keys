@@ -10,7 +10,6 @@
     "/bitbucket-pipelines.yml",
     "/sftp-config.json",
     "/.ftpconfig",
-    "/mt.js",
     "/sftp.json",
     "/Telerik.Web.UI.WebResource.axd?type=rau",
     "/.vscode/sftp.json"
@@ -18,7 +17,6 @@
   "contents": [
     "RadAsyncUpload",
     "\"remotePath\":",
-    "mt-comments.cgi?__mode",
     "\"protocol\":",
     "Deploy to production prod",
     "git-ftp.password",
