@@ -1,1 +1,1 @@
-http://103.191.50.59:31337/jp/it/get.php
+http://103.191.50.59:31337/jp/it/tele/get.php
