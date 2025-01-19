@@ -1,5 +1,5 @@
 {
-  "mailListUrl":"http://103.191.50.59:31337/jp/get.php",
+  "mailListUrl":"http://103.191.50.59:31337/jp/it/get.php",
   "threads":400,
   "timeout":15,
   "iterationDelay":400
