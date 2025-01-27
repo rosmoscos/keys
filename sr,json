@@ -1,8 +1,8 @@
 {
   "mailListUrl":"http://103.191.50.59:31337/jp/it/get.php",
-  "threads":500,
+  "threads":700,
   "timeoutPortcheck": 4,
-  "timeoutLogin": 14,
+  "timeoutLogin": 5,
   "iterationDelay":3000,
   "checkUsername": false
 }
