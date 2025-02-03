@@ -81,8 +81,8 @@
     "key-[a-f0-9]{32}",
     "xkeysib-[a-zA-Z0-9]{64}(-[a-zA-Z0-9]+)?",
     "SG\\.[A-Za-z0-9_\\-]{16,}\\.[A-Za-z0-9_\\-]{16,}",
-    "SK[0-9a-fA-F]{32}",
-    "AC[a-fA-F0-9]{32}"
+    "\\bSK[0-9a-fA-F]{32}\\b",
+    "\\bAC[a-fA-F0-9]{32}\\b"
   ],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
   "iterationDelay": 3600
