@@ -73,6 +73,12 @@
     "\"remote_path\":",
     "Responsive FileManager",
     "RadAsyncUpload",
+    "smtp.sendgrid.net",
+    "smtp.mailgun.org",
+    "mail.smtp2go.com",
+    "express-relay.jangosmtp.net",
+    "smtp-relay.sendinblue.com",
+    "email-smtp.us-east-1.amazonaws.com",
     "Deploy to production prod"
   ],
   "regex": [
