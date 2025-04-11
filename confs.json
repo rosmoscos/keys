@@ -1,8 +1,8 @@
 {
   "mailListUrl": "http://194.9.6.26:31337/sm/get.php",
-  "threads": 100,
+  "threads": 400,
   "timeoutPortcheck": 4,
-  "timeoutLogin": 4,
+  "timeoutLogin": 15,
   "iterationDelay": 3000,
   "checkUsername": false,
   "passwords": [
