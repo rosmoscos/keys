@@ -1,5 +1,5 @@
 {
-  "mailListUrl": "http://127.0.0.1:7890/mail.txt",
+  "mailListUrl": "http://194.9.6.26:31337/sm/get.php",
   "threads": 100,
   "timeoutPortcheck": 4,
   "timeoutLogin": 4,
