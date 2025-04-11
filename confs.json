@@ -3,7 +3,7 @@
   "threads": 400,
   "timeoutPortcheck": 4,
   "timeoutLogin": 15,
-  "iterationDelay": 3000,
+  "iterationDelay": 30000,
   "checkUsername": false,
   "passwords": [
     "%user%",
