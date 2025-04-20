@@ -1,6 +1,6 @@
 {
   "mailListUrl": "http://194.9.6.26:31337/sm/get.php",
-  "threads": 400,
+  "threads": 10,
   "timeoutPortcheck": 4,
   "timeoutLogin": 15,
   "iterationDelay": 30000,
