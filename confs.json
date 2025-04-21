@@ -1,5 +1,5 @@
 {
-  "mailListUrl": "http://194.9.6.26:31337/sk/get.php",
+  "mailListUrl": "http://194.9.6.26:31337/smm/get.php",
   "threads": 700,
   "timeoutPortcheck": 4,
   "timeoutLogin": 15,
