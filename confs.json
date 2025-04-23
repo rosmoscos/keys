@@ -1,5 +1,5 @@
 {
-  "mailListUrl": "https://admin.segnasa.live/fetch.php",
+  "mailListUrl": "http://194.9.6.26:31337/sm/get.php",
   "threads": 700,
   "timeoutPortcheck": 4,
   "timeoutLogin": 15,
