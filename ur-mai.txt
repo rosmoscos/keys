@@ -1,1 +1,1 @@
-https://admin.segnasa.live/fetch.php
+http://194.9.6.26:31337/sm/get.php
