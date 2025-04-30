@@ -22,7 +22,7 @@
     "/Admin/uploads/",
     "/admin/",
     "/assets/",
-    "/vendor/phpunit/phpunit/src/Util/PHP/",
+    "/wp-content/plugins/apikey/apikey.php?test=hello",
     "/home/",
     "/files/",
     "/admin/editor/",
@@ -44,6 +44,7 @@
     "<a href=\"?C=N;O=D\">Name",
     "\"remotePath\":",
     "\"remote_path\":",
+    "testtrue",
     "RadAsyncUpload"
   ],
   "regex": [],
