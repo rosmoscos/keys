@@ -43,7 +43,6 @@
     "dbpassword:",
     "SECRET_KEY=",
     "<username><![CDATA[",
-    "\"protocol\":",
     "$databases =",
     "$settings['hash_salt']",
     "aws_access_key_id",
