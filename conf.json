@@ -34,11 +34,6 @@
     "/api/.env",
     "/backend/.env",
     "/core/.env",
-    "/index.php?%ADd+allow_url_include=1+%ADd+auto_prepend_file=data://text/plain,<?php+echo+md5(123456);+?>",
-    "/cgi-bin/php-cgi.exe?%ADd+allow_url_include=1+%ADd+auto_prepend_file=data://text/plain,<?php+echo+md5(123456);+?>",
-    "/php-cgi/php-cgi.exe?%ADd+allow_url_include=1+%ADd+auto_prepend_file=data://text/plain,<?php+echo+md5(123456);+?>",
-    "/home.php?%ADd+allow_url_include=1+%ADd+auto_prepend_file=data://text/plain,<?php+echo+md5(123456);+?>",
-    "/info.php?%ADd+allow_url_include=1+%ADd+auto_prepend_file=data://text/plain,<?php+echo+md5(123456);+?>",
     "/sftp.json"
   ],
   "contents": [
@@ -61,8 +56,7 @@
     "\"password\": \"",
     "\"api_key\": \"",
     "port: 587",
-    "RadAsyncUpload",
-    "e10adc3949ba59abbe56e057f20f883e"
+    "RadAsyncUpload"
   ],
   "regex": [],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
