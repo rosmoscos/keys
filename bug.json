@@ -13,7 +13,6 @@
     "test.php",
     "phpinfo.php",
     "infos.php",
-    "Telerik.Web.UI.WebResource.axd?type=rau",
     "deployment-config.json",
     "sftp-config.json",
     "sftp.json",
@@ -50,8 +49,7 @@
     "APP_KEY=base64",
     "\"password\": \"",
     "\"api_key\": \"",
-    "Configuration File (php.ini) Path",
-    "RadAsyncUpload"
+    "Configuration File (php.ini) Path"
   ],
   "regex": [],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
