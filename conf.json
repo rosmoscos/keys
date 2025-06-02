@@ -7,7 +7,6 @@
   "threads": 400,
   "timeout": 8,
   "paths": [
-    "/ALFA_DATA/",
     "/ALFA_DATA/alfacgiapi",
     "/.vscode/sftp.json",
     "/Telerik.Web.UI.WebResource.axd?type=rau",
